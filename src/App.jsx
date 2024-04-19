@@ -5,7 +5,7 @@ function Header() {
         <header className="position-relative">
             <nav className="navbar navbar-expand">
                 <div className="container">
-                    <img src={"./img/logo.png"} alt="logo" />
+                    <img src={"../img/logo.png"} alt="logo" />
                     <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                         <button type="button" className="red-btn fw-semibold">Sign In</button>
                     </div>

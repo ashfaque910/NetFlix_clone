@@ -1,9 +1,10 @@
 body {
   font-family: 'Bebas Neue', sans-serif;
+ 
 }
 
 header {
-  background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(./img/header-img.jpg);
+  background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(../public/img/header-img.jpg);
   background-size: cover;
   background-position: 50%;
   height: 90vh;
@@ -326,4 +327,4 @@ footer .arrow-down {
       width: 20%;
       top: -45px;
   }
-}
+} 
